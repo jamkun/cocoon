@@ -2827,6 +2827,7 @@ label.screen-reader-text {
 .article .label-box-content > :last-child,
 .article .timeline-item-snippet > :last-child,
 .article .box-content > :last-child,
+.article .wp-block-gallery > :last-child,
 .article .block-box > :last-child,
 .article .blank-box > :last-child,
 .article .is-style-blank-box-red > :last-child,
